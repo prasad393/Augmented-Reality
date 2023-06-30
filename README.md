@@ -1,1 +1,3 @@
 # Augmented-Reality
+Augmented reality (AR) is a technology that overlays computer-generated content onto the real world, enhancing the user's perception and interaction with their environment. It combines virtual elements with the physical world to create an immersive and interactive experience.
+In this Project we Put poster image  on image of class room wall with Aruco marker.This algoritham detect parameters of aruco marker and further using those values, its give perspective matrix with poster.Finally using Library of Opencv and TensorFlow we able to replace aruco marker with poster in images of classroom wall from different direction.
